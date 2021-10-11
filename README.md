@@ -3,3 +3,8 @@ Ejercicios desarrollados para comprender como funciona el modelado de figuras en
 
 Notas:
 El ejercicio 06 es el mas completo ya que todas las figuras que logro estan ahí por el momento
+
+Requisitos:
+-Contrar con Glut
+
+
